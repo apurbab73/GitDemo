@@ -33,6 +33,7 @@ public class CheckoutPageStepDefinition {
 		Thread.sleep(3000);
 		System.out.println(testcontextsetup.pageObjectManager.getCheckoutPage().IsApplyButtonDisplayed());
 		System.out.println(testcontextsetup.pageObjectManager.getCheckoutPage().IsPlaceOrderButtonDisplayed());
+		System.out.println("test in progress by Appu");
 	}
 
 	
